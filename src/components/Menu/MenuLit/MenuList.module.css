@@ -1,0 +1,25 @@
+.navigation{
+    display: flex;
+    gap: var(--gap-xl);
+    font-family: var(--fonte-texto);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+   
+}
+
+.navigation{
+    list-style: nome;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.navigation li {
+list-style: nome;
+
+
+}
+
+.navigation li a {
+    display: block;
+    color: azure;
+}

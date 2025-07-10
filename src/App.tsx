@@ -1,15 +1,14 @@
 import Banner from "./components/Banner";
-import Link from "./components/Link";
-import Button from "./components/Button";
-
+import Header from "./components/Header";
 
 function App() {
 
   return (
       <>
+      <Header />
       <Banner src="./banner Desktop.png" alt="Banner" />
-      <Link href="/" target="_brank">Link</Link>
-      <Button></Button>
+      
+    
      
      
 
